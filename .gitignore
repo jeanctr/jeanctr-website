@@ -1,2 +1,4 @@
-public/
-.hugo_build.lock
+dist/
+node_modules/
+.env
+.DS_Store

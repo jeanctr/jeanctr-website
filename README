@@ -1,6 +1,7 @@
-RECURSOS
-========
+## Resources
 
-- <https://athul.github.io/archie/>
-- <https://gohugo.io/>
-- <https://github.com/athul/archie>
+- https://astro-nano-demo.vercel.app/
+
+## TODO
+
+- [ ] Astro add mermaid [astro-mermaid](https://github.com/joesaby/astro-mermaid)
